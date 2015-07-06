@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>09C1637B-9DAB-4C8A-9E11-7CCCA6E32442</string>
+	<string>2BC424E4-D171-41B0-8A42-18FAA62D1828</string>
 	<key>IDESourceControlProjectName</key>
-	<string>41_17-autorelease基本使用</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>115A9EA1902E551F863C51F10704A94FC12D0648</key>
 		<string>https://github.com/AlrclyGit/Objective-C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>41_17-autorelease基本使用/41_17-autorelease基本使用.xcodeproj</string>
+	<string>45_ARC循环引用/45_ARC循环引用.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>115A9EA1902E551F863C51F10704A94FC12D0648</key>
